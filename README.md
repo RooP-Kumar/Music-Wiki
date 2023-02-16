@@ -6,5 +6,10 @@ This application fetches data from [last.fm API](https://www.last.fm/api) like m
 
 https://user-images.githubusercontent.com/69110669/219286570-b3750965-8be7-4b8e-8e9b-7ecf80069fed.mp4
 
-## _Technology Used_
+***
 
+## _Technology Used_
+  * **Android Studio**
+  * **Kotlin**
+  * **Kotlin Coroutine**
+  * **API Used** - [last.fm API](https://www.last.fm/api)
